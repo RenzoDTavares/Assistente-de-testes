@@ -1,5 +1,7 @@
 # Assistente de Testes
 
+**O código não será disponibilizado pois o aplicativo foi criado para suportar a demanda de projetos da EY, no qual teve total apoio pela empresa, entretanto, isso não elimina possíveis contatos para propostas e dúvidas quanto a aplicação.**
+
 Este é um assistente de testes desenvolvido em Python que integra com a API do DevOps. Ele permite que os usuários configurem e gerenciem cenários de teste de maneira eficiente, bem como gerir e buscar informações de bugs e evidências.
 
 ## Funcionalidades
