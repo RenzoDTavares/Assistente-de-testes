@@ -14,7 +14,7 @@ Este é um assistente de testes desenvolvido em Python que integra com a API do 
 - Seleção do ambiente e produto.
 - Definição do perfil do usuário.
 - Integração com DevOps.
-- Geração de relatório de bugs.
+- Geração de evidências.
 
 ### Bugs PMF
 
@@ -22,7 +22,7 @@ Este é um assistente de testes desenvolvido em Python que integra com a API do 
 - Inserção de título e descrição do bug.
 - Inserção da chave M.
 - Seleção do Product ID e Release ID.
-- Geração de relatório do bug.
+- Geração de bugs.
 
 ## Como Usar
 
