@@ -1,6 +1,6 @@
 # Assistente de Testes
 
-Este é um assistente de testes desenvolvido em Python que integra com a API do DevOps. Ele permite que os usuários configurem e gerenciem cenários de teste de maneira eficiente, bem como gerir e buscar informações de bugs.
+Este é um assistente de testes desenvolvido em Python que integra com a API do DevOps. Ele permite que os usuários configurem e gerenciem cenários de teste de maneira eficiente, bem como gerir e buscar informações de bugs e evidências.
 
 ## Funcionalidades
 
@@ -34,7 +34,7 @@ Este é um assistente de testes desenvolvido em Python que integra com a API do 
 6. **Produto**: Selecione o produto no menu suspenso.
 7. **Perfil**: Insira o perfil do usuário no campo correspondente.
 8. **Integração com DevOps**: Marque a opção para integrar com DevOps.
-9. **Gerar Relatório**: Clique em "Gerar" para criar o relatório de bugs.
+9. **Gerar Relatório**: Clique em "Gerar" para criar o documento de evidência.
 
 ![image](https://github.com/user-attachments/assets/c0cf4617-854f-477f-9a41-3dec4f7e2d00)
 
@@ -46,7 +46,7 @@ Este é um assistente de testes desenvolvido em Python que integra com a API do 
 4. **Chave M**: Insira a chave M do bug.
 5. **Product ID**: Selecione o Product ID no menu suspenso.
 6. **Release ID**: Selecione o Release ID no menu suspenso.
-7. **Gerar Relatório**: Clique em "Gerar" para criar o relatório do bug.
+7. **Gerar Relatório**: Clique em "Gerar" para criar o bug no Agile Studio.
 
 ![image](https://github.com/user-attachments/assets/601e0610-64a6-4299-8a3e-021da0d58871)
 
