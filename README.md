@@ -16,14 +16,6 @@ Este é um assistente de testes desenvolvido em Python que integra com a API do 
 - Integração com DevOps.
 - Geração de evidências.
 
-### Bugs PMF
-
-- Inserção e busca de ID do Bug.
-- Inserção de título e descrição do bug.
-- Inserção da chave M.
-- Seleção do Product ID e Release ID.
-- Geração de bugs.
-
 ## Como Usar
 
 ### Documentos
@@ -40,17 +32,6 @@ Este é um assistente de testes desenvolvido em Python que integra com a API do 
 
 ![image](https://github.com/user-attachments/assets/c0cf4617-854f-477f-9a41-3dec4f7e2d00)
 
-### Bugs PMF
-
-1. **ID do Bug**: Insira o ID do bug e clique em "Buscar Bug" para buscar as informações correspondentes.
-2. **Título**: Insira o título do bug.
-3. **Descrição**: Insira a descrição do bug.
-4. **Chave M**: Insira a chave M do bug.
-5. **Product ID**: Selecione o Product ID no menu suspenso.
-6. **Release ID**: Selecione o Release ID no menu suspenso.
-7. **Gerar Relatório**: Clique em "Gerar" para criar o bug no Agile Studio.
-
-![image](https://github.com/user-attachments/assets/601e0610-64a6-4299-8a3e-021da0d58871)
 
 ## Exemplo de Uso
 
